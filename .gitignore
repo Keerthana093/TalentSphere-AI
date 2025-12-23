@@ -1,0 +1,14 @@
+# Ignore Virtual Environment
+venv/
+env/
+
+# Ignore Python Cache (compiled files)
+__pycache__/
+*.pyc
+
+# Ignore Database (Optional: Keep this if you want to share sample data, remove if it has real passwords)
+# talentsphere.db
+# talentsphere_final.db
+
+# Ignore VS Code settings (if you have them)
+.vscode/
