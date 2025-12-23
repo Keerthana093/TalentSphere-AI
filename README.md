@@ -70,8 +70,6 @@
 ## 📂 Project Structure
 TalentSphere-AI/ ├── app.py # Main Streamlit Dashboard application ├── parser_engine.py # Core logic for extracting text & skills ├── resume_loader.py # PDF text extraction utility ├── db_handler.py # SQLite database operations (Login/Register) ├── skills_db.py # Database of 500+ technical keywords ├── requirements.txt # List of python dependencies └── README.md # Project documentation
 
-## 📸 Screenshots
-*(Add your screenshots here by dragging and dropping them into the GitHub issue or markdown file)*
 
 ## 🔮 Future Enhancements
 * Integration with OpenAI GPT-4 for deeper semantic analysis.
